@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+  padding: 20px;
+  background: ghostwhite;
+}
+
+.text {
+  text-align: center;
+}
+p {
+  margin: auto;
+  padding: 20px;
+  background: rgb(207, 212, 211);
+}
