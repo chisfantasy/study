@@ -1,14 +1,23 @@
 body {
-  margin: 20px;
-  padding: 20px;
-  background: ghostwhite;
+  background: #D0D7FE;
+  margin: 0;
+  padding: 0;
 }
 
-.text {
-  text-align: center;
+#content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-grow: 1;
+  
 }
-p {
+
+.box {
+  max-width: 1058px;
+  max-height: 786px;
+  width: 73vw;
+  height: 76vh;
   margin: auto;
-  padding: 20px;
-  background: rgb(207, 212, 211);
+  background: #FFFFFF;
 }
