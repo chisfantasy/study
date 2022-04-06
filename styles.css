@@ -45,7 +45,7 @@ form {
 
 input[type="text"] {
   outline: none;
-  padding: 3px 100px 3px 30px;
+  padding-left: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -131,6 +131,7 @@ h3 {
 }
 
 ::-webkit-scrollbar {
+
 width: 4px;
 }
 
@@ -159,6 +160,7 @@ width: 4px;
   text-align: left;
   padding-top: 15px;
   padding-bottom: 15px;
+  width: calc(100% - 30px);
   border-bottom: 1px solid #DADADA;
 }
 
@@ -181,7 +183,3 @@ width: 4px;
   border: none;
   cursor: pointer;
 }
-
-/* li .button-done {
-  display: inline;
-} */
