@@ -64,7 +64,7 @@ form {
   background: #B5B5B5;
 }
 
-button[type="submit"] {
+.button-add {
   position: absolute;
   right: 0;
   z-index: 1;
