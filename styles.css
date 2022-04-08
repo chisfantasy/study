@@ -12,8 +12,8 @@ body {
 }
 
 .box {
-  max-width: 1058px;
-  max-height: 786px;
+  /* max-width: 1058px;
+  max-height: 786px; */
   width: 73vw;
   height: 76vh;
   margin: auto;
